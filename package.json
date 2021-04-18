@@ -1,9 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
-    "description": "A project that does something",
-    "author": "Frank Lu",
+	"description": "A project that does something",
+	"license": "MIT",
+	"version": "1.2.0",
+	"keywords": [
+		"freecodecamp",
+		"stuff",
+		"more stuff"
+	],
+	"author": "Frank Lu",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "moment": "2.14.0",
 	},
 	"main": "server.js",
 	"scripts": {
